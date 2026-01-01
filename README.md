@@ -139,8 +139,4 @@ All tests use **α = 0.05** (95% confidence level)
 - Product managers making data-driven decisions  
 - UX designers testing user engagement improvements  
 - Data analysts performing A/B test analysis
-
-If you'd like, I can:
-- Commit this updated README.md to your repository, or
-- Adjust wording, add images/plots, or include example result tables. 
 ```
